@@ -7,3 +7,6 @@ En este curso se revisarán los siguientes temas:
 - Programación
 - Python 
 - R
+
+Objetivo del curso: 
+En este cursos se aprenderá sobre el uso de herramientas informáticas para el análisis de datos biológicos. 
