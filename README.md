@@ -8,5 +8,14 @@ En este curso se revisarán los siguientes temas:
 - Python 
 - R
 
-Objetivo del curso: 
+# Objetivo del curso: 
+
 En este cursos se aprenderá sobre el uso de herramientas informáticas para el análisis de datos biológicos. 
+
+# Los participantes del curso son:
+
+**Docentes y apoyo**
+- Alex Sánchez
+- Abigail Galarza
+
+**Estudiantes**
