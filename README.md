@@ -6,7 +6,9 @@ En este curso se revisarán los siguientes temas:
 - Conceptos de bioinformatica
 - Programación
 - Python 
+- Expresiones regulares
 - R
+- Bioconductor
 
 # Objetivo del curso: 
 
